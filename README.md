@@ -1,2 +1,8 @@
-# sistema-de-cadastro
-Aplicação da aula
+# Sistema de cadastro de jogos
+
+> Status do projeto: Em desenvolvimento
+para rodar esse projeto na sua máquina, por favor digite:
+
+```
+npm install
+```
